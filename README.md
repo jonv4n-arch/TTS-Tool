@@ -6,3 +6,6 @@ Everything else is under GPL 3, see LICENSE
 
 
 To use this project, Head to the releases section for information.
+
+
+Inspired by a Blue Mute Cat.
