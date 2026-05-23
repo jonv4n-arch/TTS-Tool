@@ -1,4 +1,5 @@
-A TTS GUI/wrapper for Piper-TTS
+A TTS GUI/wrapper for [Piper-TTS]([https://pages.github.com/](https://github.com/OHF-Voice/piper1-gpl))
+
 Made in Python (V 3.14.4 as of May 23 2026)
 
 Example voice is from Keithito.com, and is Public Domain, and this project thanks them for making it public domain
